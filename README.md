@@ -15,6 +15,9 @@ XArray
 * Sampling Raster Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/sampling_raster_data.ipynb)  [![View in NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/spatialthoughts/python-tutorials/blob/main/sampling_raster_data.ipynb)
 * Calculating Climate Anomaly [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/calculating_climate_anomaly.ipynb)  [![View in NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/spatialthoughts/python-tutorials/blob/main/calculating_climate_anomaly.ipynb)
 
+Dask
+* Creating Spatial Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/dask_creating_spatial_data.ipynb)  [![View in NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/spatialthoughts/python-tutorials/blob/main/dask_creating_spatial_data.ipynb)
+
 STAC
 
 * STAC API Search [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/stac_api_search.ipynb)  [![View in NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/spatialthoughts/python-tutorials/blob/main/stac_api_search.ipynb)
