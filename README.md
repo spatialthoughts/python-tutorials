@@ -4,6 +4,7 @@ Spatial Analysis and Remote Sensing with Python.
 
 GeoPandas
 
+* Subset a Shapefile using a Spreadsheet [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/geopandas_select_from_excel.ipynb)  [![View in NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/spatialthoughts/python-tutorials/blob/main/geopandas_select_from_excel.ipynb)
 * Performing Spatial Query [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/performing_spatial_queries.ipynb)  [![View in NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/spatialthoughts/python-tutorials/blob/main/performing_spatial_queries.ipynb)
 * Performing Fuzzy Table Joins [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/performing_fuzzy_table_joins.ipynb)  [![View in NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/spatialthoughts/python-tutorials/blob/main/performing_fuzzy_table_joins.ipynb)
 
