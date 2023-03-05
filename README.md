@@ -25,3 +25,6 @@ Dask
 STAC
 
 * STAC API Search [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/stac_api_search.ipynb)  
+
+Planetary Computer
+* Sentinel-2 Median Composite [View Notebook](https://github.com/spatialthoughts/python-tutorials/blob/main/pc_sentinel2_composite.ipynb)
