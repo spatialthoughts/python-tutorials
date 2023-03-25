@@ -9,7 +9,7 @@ GeoPandas
 * Performing Fuzzy Table Joins [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/geopandas_fuzzy_table_join.ipynb) 
 
 OpenRouteService API
-* Locating Nearest Facility with Origin-Destination Matrix  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/ors_api_distance_matrix.ipynb.ipynb)
+* Locating Nearest Facility with Origin-Destination Matrix  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/ors_api_distance_matrix.ipynb)
  
 
 XArray
