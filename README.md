@@ -7,6 +7,8 @@ GeoPandas
 * Subset a Shapefile using a Spreadsheet [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/geopandas_select_from_excel.ipynb) [![Watch on YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg)](https://www.youtube.com/watch?v=p7QzF8kQogo)
 * Performing Spatial Query [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/geopandas_spatial_query.ipynb)   [![Watch on YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg)](https://www.youtube.com/watch?v=V-gyuP7vMSg)
 * Performing Fuzzy Table Joins [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/geopandas_fuzzy_table_join.ipynb) 
+* Geocoding with GeoPy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/geocoding_with_geopy.ipynb)
+
 
 OpenRouteService API
 * Locating Nearest Facility with Origin-Destination Matrix  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/ors_api_distance_matrix.ipynb)  [![Watch on YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg)](https://www.youtube.com/watch?v=XNHU9vxGiJw
