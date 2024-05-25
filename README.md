@@ -28,11 +28,12 @@ XArray
 * Extracting a Time-Series [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/extracting_time_series.ipynb)  
 * Extracting a Time-Series (XEE) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/extracting_time_series_xee.ipynb)  
 
-XArray with Dask
+Dask
 
 * Creating Spatial Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/dask_creating_spatial_data.ipynb)  
-* LISS4 Image Processing using XArray and Dask  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/xarray_liss4_processing.ipynb)  
-
+* LISS4 Image Processing using XArray and Dask  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/xarray_liss4_processing.ipynb)
+* Creating a Median Composite with Dask  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/median_composite_dask.ipynb)
+* Creating a Median Composite with Dask and Coiled  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/median_composite_dask_coiled.ipynb)
 STAC
 
 * STAC API Search [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/stac_api_search.ipynb)  
