@@ -43,7 +43,7 @@ STAC
 
 Segment Geospatial
 
-* Extracting Farm Boundaries using Segment Geospatial  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/amgeo_farm_boundary_extraction.ipynb)
+* Extracting Farm Boundaries using Segment Geospatial  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/samgeo_farm_boundary_extraction.ipynb)
 
 
 Planetary Computer
