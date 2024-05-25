@@ -41,11 +41,16 @@ STAC
 * STAC API Search [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/stac_api_search.ipynb)  
 * STAC Query and Computation  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/stac_query_and_computation.ipynb)
 
+AI and Deep Learning
+
 Segment Geospatial
 
 * Extracting Farm Boundaries using Segment Geospatial  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/samgeo_farm_boundary_extraction.ipynb)
 * Detecting Mine Perimeter with Segment Geospatial  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/samgeo_mine_perimeter_detection.ipynb)
 
+OpenAI API
+
+* Mapping News Articles [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/openai_mapping_news_articles.ipynb)
 
 Planetary Computer
 * Sentinel-2 Median Composite [View Notebook](https://github.com/spatialthoughts/python-tutorials/blob/main/pc_sentinel2_composite.ipynb)
