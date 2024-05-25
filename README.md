@@ -32,14 +32,19 @@ Dask
 
 * Creating Spatial Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/dask_creating_spatial_data.ipynb)  
 * LISS4 Image Processing using XArray and Dask  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/xarray_liss4_processing.ipynb)
-* Creating a Median Composite with Dask  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/median_composite_dask.ipynb)
-* Creating a Median Composite with Dask and Coiled  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/median_composite_dask_coiled.ipynb)
+* Creating a Median Composite with Dask  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/dask_median_composite.ipynb)
+* Creating a Median Composite with Dask and Coiled  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/dask_median_composite_coiled.ipynb)
 
   
 STAC
 
 * STAC API Search [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/stac_api_search.ipynb)  
 * STAC Query and Computation  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/stac_query_and_computation.ipynb)
+
+Segment Geospatial
+
+* Extracting Farm Boundaries using Segment Geospatial  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/amgeo_farm_boundary_extraction.ipynb)
+
 
 Planetary Computer
 * Sentinel-2 Median Composite [View Notebook](https://github.com/spatialthoughts/python-tutorials/blob/main/pc_sentinel2_composite.ipynb)
