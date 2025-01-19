@@ -29,7 +29,8 @@ Spatial Analysis and Remote Sensing with Python.
 ## XArray and GEE (XEE)
 * Extracting a Time-Series (XEE) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/extracting_time_series_xee.ipynb)  
 * Calculating Standardized Precipitation Index (SPI) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/computing_spi_xee.ipynb) 
-
+* Extracting a Raster [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/extracting_raster_xee.ipynb)
+  
 ## Dask
 
 * Creating Spatial Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/dask_creating_spatial_data.ipynb)  
