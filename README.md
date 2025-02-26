@@ -4,7 +4,8 @@ Spatial Analysis and Remote Sensing with Python.
 
 ## GeoPandas
 
-* Subset a Shapefile using a Spreadsheet [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/geopandas_select_from_excel.ipynb) [![Watch on YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg)](https://www.youtube.com/watch?v=p7QzF8kQogo)
+* Subset a Shapefile using a Spreadsheet [Visit Tutorial](https://www.geopythontutorials.com/notebooks/geopandas_extract_from_excel.html)
+* 
 * Performing Spatial Query [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/geopandas_spatial_query.ipynb)   [![Watch on YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg)](https://www.youtube.com/watch?v=V-gyuP7vMSg)
 * Performing Fuzzy Table Joins [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/geopandas_fuzzy_table_join.ipynb) 
 * Bulk Geocoding with GeoPy and GeoPandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/geocoding_with_geopy.ipynb) [![Watch on YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg)](https://www.youtube.com/watch?v=N6itC6hbOvo)
