@@ -1,3 +1,7 @@
+> [!WARNING]
+> This repository is now deprecated. See the updated tutorials at https://www.geopythontutorials.com/
+
+
 # Python Tutorials
 
 Spatial Analysis and Remote Sensing with Python.
