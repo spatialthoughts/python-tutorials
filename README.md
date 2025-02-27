@@ -9,26 +9,25 @@ Spatial Analysis and Remote Sensing with Python.
 ## GeoPandas
 
 * Subset a Shapefile using a Spreadsheet [Visit Tutorial](https://www.geopythontutorials.com/notebooks/geopandas_extract_from_excel.html)
-* 
-* Performing Spatial Query [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/geopandas_spatial_query.ipynb)   [![Watch on YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg)](https://www.youtube.com/watch?v=V-gyuP7vMSg)
-* Performing Fuzzy Table Joins [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/geopandas_fuzzy_table_join.ipynb) 
-* Bulk Geocoding with GeoPy and GeoPandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/geocoding_with_geopy.ipynb) [![Watch on YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg)](https://www.youtube.com/watch?v=N6itC6hbOvo)
+* Performing Spatial Query [Visit Tutorial](https://www.geopythontutorials.com/notebooks/geopandas_spatial_query.html)   [![Watch on YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg)](https://www.youtube.com/watch?v=V-gyuP7vMSg)
+* Performing Fuzzy Table Joins [Visit Tutorial](https://www.geopythontutorials.com/notebooks/geopandas_fuzzy_table_join.html)
+* Bulk Geocoding with GeoPy and GeoPandas [Visit Tutorial](https://www.geopythontutorials.com/notebooks/geopandas_bulk_geocoding.html) [![Watch on YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg)](https://www.youtube.com/watch?v=N6itC6hbOvo)
 
 ## OpenRouteService API
-* Locating Nearest Facility with Origin-Destination Matrix  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/ors_api_distance_matrix.ipynb)  [![Watch on YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg)](https://www.youtube.com/watch?v=XNHU9vxGiJw
+* Locating Nearest Facility with Origin-Destination Matrix  [Visit Tutorial](https://www.geopythontutorials.com/notebooks/ors_distance_matrix.html)  [![Watch on YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg)](https://www.youtube.com/watch?v=XNHU9vxGiJw
 )
  
 
 ## XArray
 
-* Create Raster from Array [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/raster_from_array.ipynb)  
-* Transform Longitude Values [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/wrap_longitude.ipynb)  
-* Raster Mosaicing and Clipping [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/raster_mosaicing_and_clipping.ipynb) 
-* Basic Raster Styling and Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main//raster_styling_and_analysis.ipynb)  
-* Calculating Climate Anomaly [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/calculating_climate_anomaly.ipynb) 
-* Sampling Raster Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/sampling_raster_data.ipynb)  
-* Zonal Statistics [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/zonal_statistics.ipynb)  
-* Extracting a Time-Series [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/extracting_time_series.ipynb)  
+* Create Raster from Array [Visit Tutorial](https://www.geopythontutorials.com/notebooks/xarray_create_raster.html)  
+* Transform Longitude Values [Visit Tutorial](https://www.geopythontutorials.com/notebooks/xarray_wrap_longitude.html)   
+* Raster Mosaicing and Clipping Transform Longitude Values [Visit Tutorial](https://www.geopythontutorials.com/notebooks/xarray_mosaic_and_clip.html)  
+* Basic Raster Styling and Analysis [Visit Tutorial](https://www.geopythontutorials.com/notebooks/xarray_raster_styling_analysis.html)  
+* Calculating Climate Anomaly [Visit Tutorial](https://www.geopythontutorials.com/notebooks/xarray_climate_anomaly.html) 
+* Sampling Raster Data [Visit Tutorial](https://www.geopythontutorials.com/notebooks/xarray_raster_sampling.html)   
+* Zonal Statistics [Visit Tutorial](https://www.geopythontutorials.com/notebooks/xarray_zonal_stats.html) 
+* Extracting a Time-Series [Visit Tutorial](https://www.geopythontutorials.com/notebooks/xarray_extracting_time_series.html)
 * Extracting a Time-Series (COGs) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/extracting_time_series_cogs.ipynb)  
 
 ## XArray and GEE (XEE)
@@ -38,7 +37,7 @@ Spatial Analysis and Remote Sensing with Python.
   
 ## Dask
 
-* Creating Spatial Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/dask_creating_spatial_data.ipynb)  
+* Creating Spatial Data [Visit Tutorial](https://www.geopythontutorials.com/notebooks/dask_creating_spatial_data.html) 
 * LISS4 Image Processing using XArray and Dask  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/xarray_liss4_processing.ipynb)
 * Creating a Median Composite with Dask  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/dask_median_composite.ipynb)
 * Creating a Median Composite with Dask and Coiled  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/dask_median_composite_coiled.ipynb)
@@ -53,8 +52,8 @@ Spatial Analysis and Remote Sensing with Python.
 
 ### Segment Geospatial
 
-* Extracting Farm Boundaries using Segment Geospatial  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/samgeo_farm_boundary_extraction.ipynb)
-* Detecting Mine Perimeter with Segment Geospatial  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/samgeo_mine_perimeter_detection.ipynb)
+* Extracting Farm Boundaries using Segment Geospatial  [Visit Tutorial](https://www.geopythontutorials.com/notebooks/samgeo_farm_boundary_extraction.html)
+* Detecting Mine Perimeter with Segment Geospatial  [Visit Tutorial](https://www.geopythontutorials.com/notebooks/samgeo_mine_perimeter_detection.html)
 
 ### OpenAI API
 
