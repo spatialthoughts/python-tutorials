@@ -9,13 +9,12 @@ Spatial Analysis and Remote Sensing with Python.
 ## GeoPandas
 
 * Subset a Shapefile using a Spreadsheet [Visit Tutorial](https://www.geopythontutorials.com/notebooks/geopandas_extract_from_excel.html)
-* Performing Spatial Query [Visit Tutorial](https://www.geopythontutorials.com/notebooks/geopandas_spatial_query.html)   [![Watch on YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg)](https://www.youtube.com/watch?v=V-gyuP7vMSg)
+* Performing Spatial Query [Visit Tutorial](https://www.geopythontutorials.com/notebooks/geopandas_spatial_query.html) 
 * Performing Fuzzy Table Joins [Visit Tutorial](https://www.geopythontutorials.com/notebooks/geopandas_fuzzy_table_join.html)
-* Bulk Geocoding with GeoPy and GeoPandas [Visit Tutorial](https://www.geopythontutorials.com/notebooks/geopandas_bulk_geocoding.html) [![Watch on YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg)](https://www.youtube.com/watch?v=N6itC6hbOvo)
+* Bulk Geocoding with GeoPy and GeoPandas [Visit Tutorial](https://www.geopythontutorials.com/notebooks/geopandas_bulk_geocoding.html) 
 
 ## OpenRouteService API
-* Locating Nearest Facility with Origin-Destination Matrix  [Visit Tutorial](https://www.geopythontutorials.com/notebooks/ors_distance_matrix.html)  [![Watch on YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg)](https://www.youtube.com/watch?v=XNHU9vxGiJw
-)
+* Locating Nearest Facility with Origin-Destination Matrix  [Visit Tutorial](https://www.geopythontutorials.com/notebooks/ors_distance_matrix.html)
  
 
 ## XArray
@@ -33,14 +32,15 @@ Spatial Analysis and Remote Sensing with Python.
 ## XArray and GEE (XEE)
 * Extracting a Time-Series (XEE) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/extracting_time_series_xee.ipynb)  
 * Calculating Standardized Precipitation Index (SPI) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/computing_spi_xee.ipynb) 
-* Extracting a Raster [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/extracting_raster_xee.ipynb)
+* Extracting a Raster [Visit Tutorial](https://www.geopythontutorials.com/notebooks/xee_downloading_images.html)
+
   
 ## Dask
 
 * Creating Spatial Data [Visit Tutorial](https://www.geopythontutorials.com/notebooks/dask_creating_spatial_data.html) 
 * LISS4 Image Processing using XArray and Dask  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/xarray_liss4_processing.ipynb)
-* Creating a Median Composite with Dask  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/dask_median_composite.ipynb)
-* Creating a Median Composite with Dask and Coiled  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/dask_median_composite_coiled.ipynb)
+* Creating a Median Composite with Dask  [Visit Tutorial](https://www.geopythontutorials.com/notebooks/dask_median_composite.html)) 
+* Creating a Median Composite with Dask and Coiled  [Visit Tutorial](https://www.geopythontutorials.com/notebooks/dask_median_composite.html)) 
   
 ## STAC
 
