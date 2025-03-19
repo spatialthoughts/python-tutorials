@@ -57,5 +57,4 @@ Spatial Analysis and Remote Sensing with Python.
 
 ### OpenAI API
 
-* Mapping News Articles [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/openai_mapping_news_articles.ipynb)
-
+* Mapping News Articles  [Visit Tutorial](https://www.geopythontutorials.com/notebooks/openai_mapping_news_articles.html)
