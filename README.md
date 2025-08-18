@@ -31,7 +31,7 @@ Spatial Analysis and Remote Sensing with Python.
 
 ## XArray and GEE (XEE)
 * Extracting a Time-Series (XEE) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/extracting_time_series_xee.ipynb)  
-* Calculating Standardized Precipitation Index (SPI) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/spatialthoughts/python-tutorials/blob/main/computing_spi_xee.ipynb) 
+* Calculating Standardized Precipitation Index (SPI) [Visit Tutorial](https://www.geopythontutorials.com/notebooks/xee_calculating_spi.html) 
 * Extracting a Raster [Visit Tutorial](https://www.geopythontutorials.com/notebooks/xee_downloading_images.html)
 
   
